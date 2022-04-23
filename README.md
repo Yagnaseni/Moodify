@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Moodify</h1>
+<h1 align="center">MOODIFY</h1>
 <p align="center">
 </p>
 
