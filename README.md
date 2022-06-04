@@ -23,10 +23,11 @@ The two main parts of this project are to determine the emotion of the user usin
 
 ## Technology Stack:
   1) Python
-  2) EEL
+  2) OpenCv
   3) Javascript
   4) HTML
   5) CSS
+  6) EEL
   
 
 ## Contributors:
